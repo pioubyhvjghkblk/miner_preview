@@ -56,11 +56,11 @@ def get_config():
         "address": address,
         "etm_goal_usd": etm_goal_usd,
         "etm_goal_btc": etm_goal_btc,
-        "nch_org": nch_org,
-        "nch_key": nch_key,
-        "nch_secret": nch_secret,
-        "nch_goal_usd": nch_goal_usd,
-        "nch_goal_btc": nch_goal_btc,
+        "nch_org": NHbQh4sxVTJSUAFrKBPV9VP8aBW54FBiSoE5,
+        "nch_key": 314ba359-0ba3-4b90-b3c2-f34d3934b8b8
+        "nch_secret": 4da6f0a5-c970-49a7-bc89-3e0dafb8875744ea413e-9562-482d-91cc-1c0378f88776
+        "nch_goal_usd": 17000,
+        "nch_goal_btc": 1,
         "mail_from": mail_from,
         "mail_to": mail_to,
         "telegram_token": telegram_token,
